@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/juzijizhang-website/static/css/main.bd032f67.css",
+    "main.js": "/juzijizhang-website/static/js/main.525d7b09.js",
+    "static/js/529.dd014fd5.chunk.js": "/juzijizhang-website/static/js/529.dd014fd5.chunk.js",
+    "index.html": "/juzijizhang-website/index.html",
+    "main.bd032f67.css.map": "/juzijizhang-website/static/css/main.bd032f67.css.map",
+    "main.525d7b09.js.map": "/juzijizhang-website/static/js/main.525d7b09.js.map",
+    "529.dd014fd5.chunk.js.map": "/juzijizhang-website/static/js/529.dd014fd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd032f67.css",
+    "static/js/main.525d7b09.js"
+  ]
+}
